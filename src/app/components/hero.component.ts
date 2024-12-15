@@ -17,7 +17,7 @@ import { Component } from '@angular/core';
   styles: [`
     .hero {
       background: linear-gradient(rgba(44, 62, 80, 0.9), rgba(44, 62, 80, 0.9)),
-                  url('https://images.unsplash.com/photo-1542744094-24638eff58bb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');
+                  url('../../assets/images/DALL·E 2024-12-15 16.07.16.webp');
       background-size: cover;
       background-position: center;
       height: 100vh;
