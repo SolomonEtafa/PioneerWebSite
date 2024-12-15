@@ -23,6 +23,11 @@ import { Component } from '@angular/core';
             <h3>Contact</h3>
             <p>Phone: 091 031 0318</p>
             <p>Walk-ins Welcome</p>
+            <p>
+              <a href="https://t.me/PioneerAdvertising" target="_blank" class="telegram-link">
+                Join us on Telegram <i class="fab fa-telegram"></i>
+              </a>
+            </p>
           </div>
         </div>
       </div>
@@ -49,6 +54,16 @@ import { Component } from '@angular/core';
     .info-item h3 {
       color: var(--secondary-color);
       margin-bottom: 15px;
+    }
+    .telegram-link {
+      color: #0088cc;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .telegram-link:hover {
+      text-decoration: underline;
     }
   `]
 })
