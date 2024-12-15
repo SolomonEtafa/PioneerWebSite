@@ -11,6 +11,7 @@ import { Component } from '@angular/core';
           <div class="info-item">
             <h3>Address</h3>
             <p>Gerji Mebrat Hail, Around Kadisco Hospital</p>
+            <p>Dubai Mall, First floor</p>
             <p>Addis Ababa, Ethiopia</p>
           </div>
           <div class="info-item">
