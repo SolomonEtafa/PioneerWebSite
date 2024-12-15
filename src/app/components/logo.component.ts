@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   template: `
     <div class="logo">
-      <img src="/assets/images/pioneer-logo.png" alt="Pioneer Trading P.L.C. Logo">
+      <img src="/assets/images/pioneer-logo.jpg" alt="Pioneer Trading P.L.C. Logo">
     </div>
   `,
   styles: [`

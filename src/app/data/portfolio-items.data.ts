@@ -7,63 +7,63 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       "Design and implement frosted glass patterns and branding elements for the WFP office, enhancing privacy and aligning with the organization's visual identity.",
     imageUrl:
-      'https://www.dropbox.com/scl/fi/tmhmic8pmaj9m4omd6gkk/photo_5875484225950562326_y.jpg?rlkey=we6oqh2hmd7aebhlir165rga1&st=pehuumys&dl=0',
+      '../../assets/images/photo_5875484225950562326_y.jpg',
     category: 'Branding',
   },
   {
     id: 2,
-    title: 'Ethiopian Coffee Brands',
-    description: 'Logo collection for premium Ethiopian coffee exporters',
+    title: 'www.ettaxi.com Flyer Design',
+    description: 'Creative flyer design for www.ettaxi.com, showcasing services and features with a visually appealing layout to attract and engage potential users.',
     imageUrl:
-      'https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
+      '../../assets/images/photo_5962784731936438064_y.jpg',
     category: 'Logo Design',
   },
   {
     id: 3,
-    title: 'Tourism Campaign',
-    description: 'Integrated marketing campaign for Ethiopian Tourism',
+    title: "Bk's Logo Design",
+    description: "Modern and unique logo design for BK's, reflecting the brand's identity with a visually striking and memorable aesthetic.",
     imageUrl:
-      'https://images.unsplash.com/photo-1539635278303-d4002c07eae3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
-    category: 'Marketing',
+      '../../assets/images/photo_5906508801954134186_y.jpg',
+    category: 'Logo Design',
   },
   {
     id: 4,
-    title: 'Traditional Fashion',
-    description: 'Brand identity for modern Ethiopian fashion house',
+    title: 'Ningxia Communications Construction Co. Ltd Ethiopia Branch',
+    description: 'Developed a modern and culturally resonant brand identity for Ningxia Communications Construction Co. Ltd Ethiopia Branch, blending Ethiopian heritage with contemporary design.',
     imageUrl:
-      'https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
+      '../../assets/images/photo_5981211593335223849_y.jpg',
     category: 'Branding',
   },
-  {
-    id: 5,
-    title: 'Tech Startup Identity',
-    description: 'Complete branding for Addis Ababa tech startup',
-    imageUrl:
-      'https://images.unsplash.com/photo-1539635278303-d4002c07eae3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
-    category: 'Brand Identity',
-  },
+  //{
+   // id: 5,
+  //  title: 'Tech Startup Identity',
+  //  description: 'Complete branding for Addis Ababa tech startup',
+  //  imageUrl:
+  //    'https://images.unsplash.com/photo-1539635278303-d4002c07eae3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
+  //  category: 'Brand Identity',
+  //},
   {
     id: 6,
-    title: 'Cultural Festival',
-    description: 'Event branding for annual Ethiopian cultural festival',
+    title: 'Cultural Festival, Birth Day Celebration and other Events',
+    description: 'Organizing and managing cultural festivals, birthday celebrations, and various special events with creativity and attention to detail.',
     imageUrl:
-      'https://images.unsplash.com/photo-1507152832244-10d45c7eda57?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
+      '../../assets/images/photo_5861926770838713787_y.jpg',
     category: 'Event Branding',
   },
-  {
-    id: 7,
-    title: 'Fashion Week Campaign',
-    description: 'Brand campaign for Addis Ababa Fashion Week',
-    imageUrl:
-      'https://images.unsplash.com/photo-1523910088586-5663c8db9a45?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
-    category: 'Marketing',
-  },
+  //{
+  //  id: 7,
+  //  title: 'Fashion Week Campaign',
+  //  description: 'Brand campaign for Addis Ababa Fashion Week',
+  //  imageUrl:
+  //    'https://images.unsplash.com/photo-1523910088586-5663c8db9a45?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
+  //  category: 'Marketing',
+  //},
   {
     id: 8,
     title: 'Business Conference',
     description: 'Event branding for Pan-African Business Summit',
     imageUrl:
-      'https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
+      '../../assets/images/photo_5852502916806588495_x.jpg',
     category: 'Event Branding',
   },
 ];
