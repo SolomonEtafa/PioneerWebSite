@@ -14,7 +14,7 @@ import { Component } from '@angular/core';
       align-items: center;
     }
     .logo img {
-      height: 50px;
+      height: 70px;
       width: auto;
     }
   `]
