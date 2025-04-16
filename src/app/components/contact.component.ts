@@ -22,7 +22,7 @@ import { Component } from '@angular/core';
           </div>
           <div class="info-item">
             <h3>Contact</h3>
-            <p>Phone: 091 031 0318</p>
+            <p>Phone: +251 91 031 0318 | +251 91 1610771</p>
             <p>Walk-ins Welcome</p>
             <p>
               <a href="https://t.me/PioneerAdvertising" target="_blank" class="telegram-link">
