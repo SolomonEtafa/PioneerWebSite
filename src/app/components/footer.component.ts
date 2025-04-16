@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   template: `
     <footer class="footer">
       <div class="container">
-        <p>&copy; 2024 Pioneer Trading P.L.C. All rights reserved.</p>
+        <p>&copy; 2025 Pioneer Trading P.L.C. All rights reserved.</p>
       </div>
     </footer>
   `,
