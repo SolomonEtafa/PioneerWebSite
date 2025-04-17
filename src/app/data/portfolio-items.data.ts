@@ -106,4 +106,12 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       '../../assets/images/photo_5913770547974622811_y.jpg',
     category: 'Brand Identity',
   },
+  {
+    id: 14,
+    title: 'Dugda Construction PLC Branded T-shirts',
+    description: 'T-shirts branded with the Dugda Construction PLC logo are showcased, highlighting a strategy to increase brand visibility. The printing on both white and red shirts ensures the logo stands out, potentially for workwear or promotional purposes.',
+    imageUrl:
+      '../../assets/images/DesignerTshert.jpg',
+    category: 'Brand Identity',
+  },
 ];
