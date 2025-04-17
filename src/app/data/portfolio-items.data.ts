@@ -87,7 +87,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: 'Clear Branding with Window Frosting at SAS Pharmacies',
     description: 'The application of frosted window film with a cutout design effectively displays the SAS Pharmacies brand on their storefront. The logo and name are clearly visible, contributing to the pharmacys professional image and street presence in Addis Ababa.',
     imageUrl:
-      '../../assets/images/photo_5994550108194190187_y',
+      '../../assets/images/photo_5994550108194190187_y.jpg',
     category: 'Brand Identity',
   },
 ];
