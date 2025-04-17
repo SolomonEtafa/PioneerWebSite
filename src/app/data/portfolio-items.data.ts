@@ -87,7 +87,15 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     title: 'Clear Branding with Window Frosting at SAS Pharmacies',
     description: 'The application of frosted window film with a cutout design effectively displays the SAS Pharmacies brand on their storefront. The logo and name are clearly visible, contributing to the pharmacys professional image and street presence in Addis Ababa.',
     imageUrl:
-      '../../assets/images/photo_5994550108194190187_y.jpg',
+      '../../assets/images/photo_5994550108194190185_y.jpg',
+    category: 'Brand Identity',
+  },
+  {
+    id: 12,
+    title: 'KB Import & Export Signage',
+    description: 'This image showcases the branding of KB Import & Export as displayed on their business premises in Addis Ababa. The distinct blue and orange color scheme of their logo and signage helps create a visible identity. The presence of vehicles behind the fence hints at the nature of their import/export activities.',
+    imageUrl:
+      '../../assets/images/photo_5796238278293305392_y.jpg',
     category: 'Brand Identity',
   },
 ];
