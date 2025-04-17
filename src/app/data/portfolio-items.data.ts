@@ -98,4 +98,12 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       '../../assets/images/photo_5796238278293305392_y.jpg',
     category: 'Brand Identity',
   },
+  {
+    id: 13,
+    title: 'Feveline Fashion Branded Paper Bag',
+    description: 'A kraft paper bag showcasing the branding for Feveline fashion. The design features their logo, a silhouette, contact details, a QR code, and a thank you message, creating a cohesive brand presentation for their customers.',
+    imageUrl:
+      '../../assets/images/photo_5913770547974622811_y.jpg',
+    category: 'Brand Identity',
+  },
 ];
