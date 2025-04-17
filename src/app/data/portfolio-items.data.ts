@@ -66,4 +66,12 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       '../../assets/images/photo_5852502916806588495_x.jpg',
     category: 'Event Branding',
   },
+  {
+    id: 9,
+    title: 'Contemporary Scents, Modern Identity',
+    description: 'This branding proposal offers a fresh and modern take for a perfume company. The sleek packaging and minimalist design reflect a contemporary approach to fragrance, appealing to a discerning and forward-thinking audience.',
+    imageUrl:
+      '../../assets/images/photo_5767021488384363207_y.jpg',
+    category: 'Brand Identity',
+  },
 ];
