@@ -74,4 +74,12 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       '../../assets/images/photo_5767021488384363207_y.jpg',
     category: 'Brand Identity',
   },
+  {
+    id: 10,
+    title: 'NEBO Branding',
+    description: 'This branding for NEBO utilizes the accuracy of CNC machining to create a distinct and lasting impression on their bags. The clean lines of the logo and tagline are precisely rendered, reflecting a commitment to quality and detail in both their products and branding.',
+    imageUrl:
+      '../../assets/images/photo_5767021488384363211_y.jpg',
+    category: 'Brand Identity',
+  },
 ];
