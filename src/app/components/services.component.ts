@@ -12,7 +12,6 @@ import { Component } from '@angular/core';
             <h3>Brand Creation</h3>
             <p>Develop unique and memorable brand identities that resonate with your target audience.</p>
           </div>
-
           <div class="service-card">
             <h3>Brand Strategy</h3>
             <p>Create comprehensive branding strategies to position your business for success.</p>
@@ -20,15 +19,6 @@ import { Component } from '@angular/core';
           <div class="service-card">
             <h3>Rebranding</h3>
             <p>Transform existing brands to better align with current market demands and business goals.</p>
-          </div>
-          
-          <div class="service-card">
-            <h3>Website Design & Development</h3>
-            <p>Create modern, responsive websites tailored to your brand with cutting-edge technologies and user-friendly interfaces.</p>
-          </div>
-          <div class="service-card">
-            <h3>Software Development</h3>
-            <p>Custom software solutions tailored to your business needs, from mobile apps to enterprise systems.</p>
           </div>
         </div>
       </div>
@@ -44,14 +34,11 @@ import { Component } from '@angular/core';
       color: var(--primary-color);
     }
     .services-grid {
-      display: flex;
-      flex-direction: row;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 30px;
-      overflow-x: auto;
-      padding: 20px 0;
     }
     .service-card {
-      flex: 0 0 300px;
       background: white;
       padding: 30px;
       border-radius: 10px;
