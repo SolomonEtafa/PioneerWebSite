@@ -12,6 +12,14 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 2,
+    title: 'visibility Materials for the 4th IGAD Scientific Conference',
+    description: 'This image highlights the high-quality visibility materials produced by Pioneer for the 4th IGAD Scientific Conference on Migration. The materials include professionally designed banners, eco-friendly tote bags featuring traditional Ethiopian patterns, and delegate badges with green lanyards. All items prominently display the conference theme.',
+    imageUrl:
+      '../../assets/images/IGAD4thSC.jpg',
+    category: 'Event Branding',
+  },
+  {
+    id: 15,
     title: 'www.ettaxi.com Flyer Design',
     description: 'Creative flyer design for www.ettaxi.com, showcasing services and features with a visually appealing layout to attract and engage potential users.',
     imageUrl:
@@ -114,4 +122,5 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       '../../assets/images/DesignerTshert.jpg',
     category: 'Brand Identity',
   },
+  
 ];
