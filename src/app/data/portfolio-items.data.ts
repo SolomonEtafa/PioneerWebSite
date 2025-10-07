@@ -10,14 +10,22 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       '../../assets/images/photo_5875484225950562326_y.jpg',
     category: 'Branding',
   },
-  /*{
-    id: 2,
-    title: 'visibility Materials for the 4th IGAD Scientific Conference',
-    description: 'This image highlights the high-quality visibility materials produced by Pioneer for the 4th IGAD Scientific Conference on Migration. The materials include professionally designed banners, eco-friendly tote bags featuring traditional Ethiopian patterns, and delegate badges with green lanyards. All items prominently display the conference theme.',
+  {
+    id: 16,
+    title: 'Elegant Corporate Gift Packages',
+    description: 'Pioneer Trading P.L.C. proudly designed and produced these premium branded gift sets for ghap | CBRE Excellerate. Each set — featuring a custom notebook, pen, flash drive, and mug — reflects sophistication, quality, and attention to detail. From concept to creation, Pioneer delivers exceptional corporate visibility materials that leave a lasting impression.',
     imageUrl:
-      '../../assets/images/IGAD4thSC.jpg',
-    category: 'Event Branding',
-  },*/
+      '../../assets/images/ghapGiftBox.jpeg',
+    category: 'Brand Identity',
+  },
+ {
+    id: 19,
+    title: 'Pioneer Trading P.L.C. at the Book Launch Event!',
+    description: 'Pioneer Trading P.L.C. proudly designed and produced all visibility materials for this inspiring book launch event — from elegant roll-up banners to vibrant backdrops and promotional prints. Our creative touch helped bring the author’s vision to life, ensuring every detail reflected excellence and professionalism.',
+    imageUrl:
+      '../../assets/images/Book.jpg',
+    category: 'Brand Identity',
+  },
   {
     id: 15,
     title: 'www.ettaxi.com Flyer Design',
@@ -42,14 +50,14 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       '../../assets/images/photo_5981211593335223849_y.jpg',
     category: 'Branding',
   },
-  //{
-   // id: 5,
-  //  title: 'Tech Startup Identity',
-  //  description: 'Complete branding for Addis Ababa tech startup',
-  //  imageUrl:
-  //    'https://images.unsplash.com/photo-1539635278303-d4002c07eae3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80',
-  //  category: 'Brand Identity',
-  //},
+  {
+    id: 17,
+    title: 'Premium Custom Souvenirs',
+    description: 'Pioneer Trading P.L.C. proudly produced these elegant branded visibility materials — including snow globes and metallic keychains — for Niyala Insurance S.C. and partners. Each item reflects our dedication to quality, creativity, and lasting brand impact.',
+    imageUrl:
+      '../../assets/images/Niyala.jpeg',
+    category: 'Brand Identity',
+  },
   {
     id: 6,
     title: 'Cultural Festival, Birth Day Celebration and other Events',
@@ -122,5 +130,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
       '../../assets/images/DesignerTshert.jpg',
     category: 'Brand Identity',
   },
+  
+  
   
 ];
