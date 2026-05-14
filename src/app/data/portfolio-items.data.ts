@@ -36,7 +36,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: 3,
-    title: "Bk's Logo Design",
+    title: "KB's Logo Design",
     description: "Modern and unique logo design for BK's, reflecting the brand's identity with a visually striking and memorable aesthetic.",
     imageUrl:
       '../../assets/images/photo_5906508801954134186_y.jpg',
